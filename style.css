@@ -1,0 +1,60 @@
+body { 
+   background-color: rgb(150, 144, 144);
+ font-family: "Old English Text MT", "Blackletter", cursive;
+} 
+ 
+
+h1 { height: 10;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin: 0;
+      
+
+  color: rgb(0, 0, 0)
+}
+
+p {
+  font-size: 16px;
+  background: rgba(142, 139, 145, 0.788)
+}
+
+
+h2{color: rgb(0, 0, 0);
+
+}
+p{color: blue;}
+video{
+   border: 5px solid blue
+
+}
+audio{ background-color: aqua;
+   
+border: solid blue
+
+}
+h3{color: rgb(0, 0, 0);
+
+}
+h4{
+  color: rgb(0, 0, 0);
+}
+
+.image{
+  margin: auto;
+  align-items: center;
+  justify-content: center;
+   display: flex
+  
+  
+}
+.hi #hola {
+  color: aqua;
+}
+.hi{
+  color: black;
+}
+
+#hola{
+  color: green;
+}
